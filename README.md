@@ -3,9 +3,9 @@
 **Project information** : Web Application Academy Management System
 
 This project is like a helpful tool for schools and learning centers. It makes things like managing classes, teachers, students, and money really simple. The goal of the project is to show how I can create a system that makes schools and learning places work better.
-
-I developed this website for my client, a final year project (FYP) student named Ihtiram Ullah. They have granted me permission to publicly share it on GitHub and include it in my portfolio.
-
+<br><br>
+I developed this website for my client, a final year project (FYP) student named **Ihtiram Ullah**. They have granted me permission to publicly share it on GitHub and include it in my portfolio.
+<br><br>
 **Key Features:**
 <br><br>
 **Browse Courses:** On the homepage, you can see the latest courses being offered. You have the option to explore more details about each course and express your interest.
