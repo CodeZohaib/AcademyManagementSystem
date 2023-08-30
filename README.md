@@ -1,6 +1,37 @@
 # AcademyManagementSystem
+
+**Project information** : Web Application Academy Management System
+
 This project is like a helpful tool for schools and learning centers. It makes things like managing classes, teachers, students, and money really simple. The goal of the project is to show how I can create a system that makes schools and learning places work better.
 
+I developed this website for my client, a final year project (FYP) student named Ihtiram Ullah. They have granted me permission to publicly share it on GitHub and include it in my portfolio.
+
+**Key Features:**
+<br><br>
+**Browse Courses:** On the homepage, you can see the latest courses being offered. You have the option to explore more details about each course and express your interest.
+<br><br>
+**Course Details:**  By clicking on "Details," you can access comprehensive information about a specific course and express your intent to join.
+<br><br>
+**Learn About Teachers:** Clicking on a teacher's picture reveals essential information about them, giving you insights into your potential instructors.
+<br><br>
+**Admin Access:**  Admins have a secure login to perform important tasks
+<br><br>
+**Program Management:** Admins can control study programs, adding, modifying, and removing them. They can also label programs as private, affecting related courses.
+<br><br>
+**Course Control:** Admins can view, add, update, and label courses as private or public.
+<br><br>
+**Teacher Management:** This page empowers admins to manage teachers, from adding and updating to removing them. Admins can also handle teachers' salaries and access their profiles.
+<br><br>
+**Schedule Management:**  Admins can assign teachers to classes, set timings, and specify morning or evening shifts. The system ensures at time one teachers aren't double-booked.
+<br><br>
+**Enrollment Review:**  Admins review user enrollment forms. If a user visits the academy and receives an assigned roll number, their enrollment is accepted. Otherwise, it's rejected.
+<br><br>
+**Student Enrollment:**  Admins can access student details, track their course progress, manage fee payments, and keep an eye on payment history.
+<br><br>
+**Salary Processing:** Admins can access teacher salary details and payment history.
+<br><br>
+**Project Languages Used:**  HTML, CSS, Bootstrap, jQuery, PHP, MySQLi PDO, AJAX
+<br><br><br>
 The project folder is called "academy," and the database used is also named "academy." If you want to change the project folder's name, you need to update it in three specific places:
 
 1. **Change in custom.js file**: There's a file named custom.js inside a folder called js. You need to find the line that looks like this: `window.location.origin+'/academy';`. Instead of "academy," put the new name you want for your project folder.
@@ -75,6 +106,7 @@ The project folder is called "academy," and the database used is also named "aca
 ![18](https://github.com/CodeZohaib/AcademyManagementSystem/assets/142882799/4af5bce8-0a82-46ed-910a-669cd35bc1f5)
 **Pay Salery Modal**
 <br><br><br><br>
+
 
 
 
