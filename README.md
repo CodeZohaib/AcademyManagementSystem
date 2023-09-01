@@ -31,8 +31,9 @@ I developed this website for my client, a final year project (FYP) student named
 **Salary Processing:** Admins can access teacher salary details and payment history.
 <br><br>
 **Project Languages Used:**  HTML, CSS, Bootstrap, jQuery, PHP, MySQLi PDO, AJAX
-<br><br><br>
-Ensure that both the project name is set to "academy" and the database name is also "academy" when following the steps below. Using any other name may result in issues on localhost. To change the project folder name, you need to update it in three specific places:
+<br><br>
+**Setting Up Your Project**<br>
+Ensure that both the project name is set to "academy" and the database name is also "academy" when following the steps below. Using any other name may result in issues on localhost. To change the project folder name, you need to update it in three specific places:<br>
 
 1. **Change in custom.js file**: There's a file named custom.js inside a folder called js. You need to find the line that looks like this: `window.location.origin+'/academy';`. Instead of "academy," put the new name you want for your project folder.
 
