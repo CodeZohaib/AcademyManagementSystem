@@ -32,7 +32,7 @@ I developed this website for my client, a final year project (FYP) student named
 <br><br>
 **Project Languages Used:**  HTML, CSS, Bootstrap, jQuery, PHP, MySQLi PDO, AJAX
 <br><br><br>
-The project folder is called "academy," and the database used is also named "academy." If you want to change the project folder's name, you need to update it in three specific places:
+Ensure that both the project name is set to "academy" and the database name is also "academy" when following the steps below. Using any other name may result in issues on localhost. To change the project folder name, you need to update it in three specific places:
 
 1. **Change in custom.js file**: There's a file named custom.js inside a folder called js. You need to find the line that looks like this: `window.location.origin+'/academy';`. Instead of "academy," put the new name you want for your project folder.
 
